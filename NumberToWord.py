@@ -102,4 +102,4 @@ def NumToWord(num):
         return main(s[:len(s)-7]) +' CRORE, '+ main(s[len(s)-7:])[:]
     
 
-print(NumToWord(9000))
+# print(NumToWord(9000))
